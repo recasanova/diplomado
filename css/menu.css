@@ -5,30 +5,6 @@
 body{
 	font-family: 'Raleway', sans-serif!important;
 }
-#logo{
-	background-color: #f2f2f2;
-}
-#about{
-	background-color: #ff1a1a;
-}
-#education{
-	background-color: #4da6ff;
-}
-#experience{
-	background-color: #00b359;
-}
-#port_web{
-	background-color: #a64dff;
-}
-#port_photo{
-	background-color: #ff6600;
-}
-#contact{
-	background-color: #003d99;
-}
-.text-white{
-	color: white!important;
-}
 .no-padding{
 	padding: 0px!important;
 }
