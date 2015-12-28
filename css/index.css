@@ -7,3 +7,6 @@
 #portada_btn{
 	border: 1px solid blue;
 }
+.modal.and.carousel {
+  position: absolute; // Needed because the carousel overrides the position property
+}

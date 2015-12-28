@@ -14,6 +14,7 @@
 	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap-theme.min.css">
 	<!-- STYLESHEET DE FONTAWESOME -->
 	<link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
+	<!-- GOOGLE FONTS -->
 	<link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
 
