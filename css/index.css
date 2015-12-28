@@ -1,12 +1,55 @@
 #portada_img{
-	border: 1px solid red;
+	padding: 0px 20px;
 }
 #portada_resumen{
-	border: 1px solid green;
+	padding: 58px 10px;
+}
+#portada_resumen h1{
+	font-style: bold;
 }
 #portada_btn{
-	border: 1px solid blue;
+	
 }
+
 .modal.and.carousel {
   position: absolute; // Needed because the carousel overrides the position property
+}
+#separador{
+	border-width: 2px 0px 0px!important;
+}
+#portada_social a{
+	font-size: 20px;
+	margin: 5px;
+}
+#portada_social{
+	padding: 10px 70px;
+}
+#portada_social .fa-github{
+	color: #333;
+}
+#portada_social .fa-facebook-square{
+	color: #3b5998;
+}
+#portada_social .fa-twitter{
+	color: #00aced;
+}
+#portada_social .fa-linkedin{
+	color: #007bb5;
+}
+#portada_social{
+	padding-bottom: 30px;
+}
+#portada_correo{
+	padding: 15px 10px;
+}
+#portada_download{
+	padding: 10px 0px;
+}
+#btn_download{
+	background-color: #4700b3;
+	color: white;
+	border: 0px;
+	border-radius: 50px;
+	padding:5px 10px;
+	box-shadow: 3px 3px 2px #888888;
 }

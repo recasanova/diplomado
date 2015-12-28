@@ -4,6 +4,7 @@
 }
 body{
 	font-family: 'Raleway', sans-serif!important;
+	background-color: #fafafa;
 }
 .no-padding{
 	padding: 0px!important;
@@ -23,9 +24,33 @@ body{
 .text-black{
 	color: black;
 }
+.text-center{
+	text-align: center;
+}
+.text-justify{
+	text-align: justify;
+}
+.text-left{
+	text-align: left;
+}
+.text-right{
+	text-align: right;
+}
 .v-align-t{
 	vertical-align: top;
 }
 .v-align-b{
 	vertical-align: bottom;
+}
+.absolute{
+	position: absolute;
+}
+.relative{
+	position: relative;
+}
+.pull-right{
+	float:right;
+}
+.pull-left{
+	float:left;
 }

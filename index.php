@@ -1,22 +1,44 @@
 <?php include 'header.php';?>
 <?php include 'menu.php';?>
-<div class="container">
+<div class="container ">
 	<div class="row">
 		<div id="portada_img" class="col-md-3 col-md-offset-1 inline">
 			<a href="#lightbox" data-toggle="modal"><img src="http://lorempixel.com/250/400/" alt=""></a>
 
-		</div>	
-		<div id="portada_resumen" class="col-md-5 inline">
-			<h1>Regina Andrea Casanova Pérez</h1>
+		</div>
+		<div id="portada_resumen" class="col-md-7 inline text-center full-height">
+			<h1><b>Regina Casanova Pérez</b></h1>
 			<h3>FrontEnd Developer, User Experience Assistant, Bioinformático Junior</h3>
-			<hr>
-			<p>Bachiller en Ingeniería Informática con experiencia en docencia, Bioinformática, Desarrollo web especializada en Desarrollo FrontEnd y Experiencia del Usuario. Con muchos deseos de superación y altas ambiciones para el futuro. Auto-didacta, amante de la música y series de TV, Fotógrafo amateur y amante de la tecnología.</p>
+			<hr id="separador">
+			<p class="text-justify">Bachiller en Ingeniería Informática con experiencia en docencia, Bioinformática, Desarrollo web especializada en Desarrollo FrontEnd y Experiencia del Usuario. Con muchos deseos de superación y altas ambiciones para el futuro. Auto-didacta, amante de la música y series de TV, Fotógrafo amateur y amante de la tecnología.</p>
 		</div>
-		<div id="portada_btn" class="col-md-2 inline">
-			<div class="v-align-b">
-				<span><i class="fa fa-envelope"></i>regina.casanova.90@gmail.com</span>
+	</div>
+	<div class="row">
+		<div id="portada_bottom" class="col-md-10 col-md-offset-1 inline">
+			<div class="row">
+				<div id="portada_social" class="pull-left col-md-4">
+					<a href="https://github.com/recasanova"><i class="fa fa-github"></i></a>
+					<a href="https://www.facebook.com/reggix.casanova"><i class="fa fa-facebook-square"></i></a>
+					<a href="https://twitter.com/ReCasanova90"><i class="fa fa-twitter"></i></a>
+					<a href="https://pe.linkedin.com/in/regina-casanova-5831a3b1"><i class="fa fa-linkedin"></i></a>
+				</div>
+				<div id="portada_correo" class="text-right col-md-4">
+					<span class="text-center"><i class="fa fa-envelope"></i> regina.casanova.90@gmail.com</span>
+				</div>
+				
+				<div id="portada_download" class="col-md-4 text-right">
+					<input id="btn_download" type="button" value="Descargar CV en PDF" onClick="window.open('cv_recasanova.pdf');">
+					<br>
+					
+				</div>
 			</div>
+			
 		</div>
+	</div>
+		
+
+		
+		<!-- BASADO EN EL CODIGO ENCONTRADO EN http://codepen.io/krnlde/pen/pGijB -->
 		<div class="modal fade and carousel slide" id="lightbox">
 			    <div class="modal-dialog">
 			      <div class="modal-content">
@@ -96,5 +118,5 @@
   </div>
   <!-- /.modal -->
 </div>
-
-<?php include 'footer.php';?>
+<!--
+<?php include 'footer.php';?>-->
