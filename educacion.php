@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <?php include 'menu.php';?>
 
-<!-- You will need to convert css to LESS -->
+<!-- CODIGO BASADO EN EL EJEMPLO QUE SE ENCUENTRA EN http://jsfiddle.net/yinnette/XdQ5Y/ -->
 <div class="educacion">
   <div class="timeline">
     <div class="timeline-item active">
@@ -34,7 +34,7 @@
         </div>
         <div class="info">The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.</div>
     </div>
-</div>  
+  </div>  
 </div>
 
 
