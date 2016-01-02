@@ -6,35 +6,27 @@
 			<a href="#lightbox" data-toggle="modal"><img src="http://lorempixel.com/250/400/" alt=""></a>
 
 		</div>
-		<div id="portada_resumen" class="col-md-7 inline text-center full-height">
+		<div id="datos_resumen" class="col-md-7 inline full-height">
 			<h1><b>Regina Casanova Pérez</b></h1>
-			<h3>FrontEnd Developer, User Experience Assistant, Bioinformático Junior</h3>
-			<hr id="separador">
-			<p class="text-justify">Bachiller en Ingeniería Informática con experiencia en docencia, Bioinformática, Desarrollo web especializada en Desarrollo FrontEnd y Experiencia del Usuario. Con muchos deseos de superación y altas ambiciones para el futuro. Auto-didacta, amante de la música y series de TV, Fotógrafo amateur y amante de la tecnología.</p>
-		</div>
-	</div>
-	<div class="row">
-		<div id="portada_bottom" class="col-md-10 col-md-offset-1 inline">
-			<div class="row">
-				<div id="portada_social" class="pull-left col-md-4">
-					<a href="https://github.com/recasanova"><i class="fa fa-github"></i></a>
-					<a href="https://www.facebook.com/reggix.casanova"><i class="fa fa-facebook-square"></i></a>
-					<a href="https://twitter.com/ReCasanova90"><i class="fa fa-twitter"></i></a>
-					<a href="https://pe.linkedin.com/in/regina-casanova-5831a3b1"><i class="fa fa-linkedin"></i></a>
-				</div>
-				<div id="portada_correo" class="text-right col-md-4">
-					<span class="text-center"><i class="fa fa-envelope"></i> regina.casanova.90@gmail.com</span>
-				</div>
+			<hr>
+			<div id="data">
+				<span>Edad: <b>25</b></span><br>
+				<span>Correo: <b>regina.casanova.90@gmail.com</b> </span><br>
+				<span>Teléfono: <b>+51 986 601 157</b> </span><br>
+				<span>Dirección: <b>Psje Senda Dorada Block 4 Dpto 404 Pueblo Libre</b></span><br>
+				<span>Intereses: <b>Ciencia, Genetica, Cine, Musica Electronica, Bioinformatica, Viajes, Leer</b></span><br>
 				
-				<div id="portada_download" class="col-md-4 text-right">
-					<input id="btn_download" type="button" value="Descargar CV en PDF" onClick="window.open('cv_recasanova.pdf');">
-					<br>
-					
-				</div>
+			</div>
+			<div id="data_map" class="text-center">
+				<a id="btnPlaces" href="https://www.google.com/maps/d/edit?mid=zJnl5D_x5DNU.kzxThgLZY3vQ&usp=sharing" target="_blank">Mostrar Lugares Visitados</a>
 			</div>
 			
+
+			
+
 		</div>
 	</div>
+
 		
 
 		

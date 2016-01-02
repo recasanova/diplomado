@@ -1,0 +1,92 @@
+/* CODIGO REUTILIZADO DE http://codepen.io/jplhomer/pen/lgfus*/
+.experiencia h1, h2, h3 {
+  font-weight: 300;
+}
+
+.experiencia .container {
+  padding: 1em;
+}
+
+.experiencia .timeline {
+  position: relative;
+  overflow: auto;
+}
+.experiencia .timeline:before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 5px;
+  background: #dddddd;
+  left: 0;
+}
+.experiencia .timeline h2 {
+  background: #dddddd;
+  max-width: 6em;
+  margin: 0 auto 1em;
+  padding: 0.5em;
+  text-align: center;
+  position: relative;
+  clear: both;
+}
+.experiencia .timeline ul {
+  list-style: none;
+  padding: 0 0 0 1em;
+  z-index: 1;
+}
+.experiencia .timeline li {
+  background: #dddddd;
+  padding: 1em;
+  margin-bottom: 1em;
+  position: relative;
+}
+.experiencia .timeline li:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-top: 1em solid #dddddd;
+  border-left: 1em solid transparent;
+  position: absolute;
+  left: -1em;
+  top: 0;
+}
+.experiencia .timeline h3 {
+  margin-top: 0;
+}
+.experiencia .timeline time {
+  font-style: italic;
+}
+
+@media screen and (min-width: 40em) {
+  .experiencia .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .experiencia .timeline:before {
+    left: 50%;
+  }
+  .experiencia .timeline ul {
+    padding-left: 0;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .experiencia .timeline li {
+    width: 42%;
+  }
+  .experiencia .timeline li:nth-child(even) {
+    float: right;
+    margin-top: 2em;
+  }
+  .experiencia .timeline li:nth-child(odd) {
+    float: left;
+  }
+  .experiencia .timeline li:nth-child(odd):before {
+    border-top: 1em solid #dddddd;
+    border-right: 1em solid transparent;
+    right: -1em;
+    left: auto;
+  }
+  .experiencia .timeline li:nth-of-type(2n+1) {
+    clear: both;
+  }
+}

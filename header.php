@@ -9,6 +9,10 @@
 	<link rel="stylesheet" href="css/menu.css">
 	<link rel="stylesheet" href="css/footer.css">
 	<link rel="stylesheet" href="css/index.css">
+	<link rel="stylesheet" href="css/datos.css">
+	<link rel="stylesheet" href="css/experiencia.css">
+	<link rel="stylesheet" href="css/eduacion.css">
+	<link rel="stylesheet" href="css/normalize.css">
 	<!-- STYLESHEETS DE BOOTSTRAP -->
 	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap-theme.min.css">
