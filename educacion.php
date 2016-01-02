@@ -2,7 +2,8 @@
 <?php include 'menu.php';?>
 
 <!-- You will need to convert css to LESS -->
-<div class="educacion timeline">
+<div class="educacion">
+  <div class="timeline">
     <div class="timeline-item active">
         <div class="year">2008 <span class="marker"><span class="dot"></span></span>
         </div>
@@ -33,6 +34,8 @@
         </div>
         <div class="info">The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.The in-house Gawker chat room is filled with photos of Rob Ford, and for one reason.</div>
     </div>
+</div>  
 </div>
+
 
 <?php include 'footer.php';?>
