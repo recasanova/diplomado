@@ -25,7 +25,7 @@
 			          <ul class="dropdown-menu">
 			            <li id="li_web"><a href="web.php">Web<br><i class="fa fa-desktop"></i></a></li>
 			            <li role="separator" class="divider"></li>
-			            <li id="li_fotografia"><a href="#">Fotografía<br><i class="fa fa-camera"></i></a></li>
+			            <li id="li_fotografia"><a href="fotografia.php">Fotografía<br><i class="fa fa-camera"></i></a></li>
 			          </ul>
 			        </li>
 			        <li id="li_contacto"><a href="contacto.php">Contacto<br><i class="fa fa-envelope"></i></a></li>
