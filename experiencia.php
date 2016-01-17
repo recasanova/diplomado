@@ -2,48 +2,122 @@
 <?php include 'menu.php';?>
 <!-- EJEMPLO TOMADO DE http://codepen.io/jplhomer/pen/lgfus -->
 <div class="container experiencia ">
-  <h1>Responsive HTML Timeline</h1>
-  
-  <p><em>Inspired by the talented <a href="http://daverupert.com/about.html">Dave Rupert</a>.</em></p>
+  <h1>Educación</h1>
   
   <div class="timeline">
-    <h2>2013</h2>
+    <h2>2015</h2>
     
     <ul>
       <li>
-        <h3>Quit my Job</h3>
-        <p>One day, my boss came up to me and asked, "Are you ready, Joe?" Pretty much decided I wasn't ready.</p>
-        <time>August 2013</time>
+        <h3>HTML5 + CSS3 + JavaScript</h3>
+        <p>Area51 Training Center, Lima, Perú</p>
+        <time>Febrero 2015</time>
       </li>
       <li>
-        <h3>Started New Job</h3>
-        <p>Began work at the Button Factory. This was probably the best time of my life. I had a wife, a dog, and a family.</p>
-        <time>July 2013</time>
+        <h3>Curso de Capacitación en Creación y Edición de Imágenes con Photoshop.</h3>
+        <p>InfoPUC, Lima, Perú</p>
+        <time>Febrero 2015</time>
       </li>
       <li>
-        <h3>Changed my name to Joe</h3>
-        <p>I was just sick of Josh</p>
-        <time>June 2013</time>
+        <h3>Diplomado Web Designer Pro</h3>
+        <p>MediaPro Training Center, Lima, Perú</p>
+        <time>Marzo 2015</time>
       </li>
       <li>
-        <h3>Moved to Iowa</h3>
-        <p>I moved to <a href="#">Ames, Iowa</a> and settled down into my new life.</p>
-        <time>February 2013</time>
+        <h3>Programación en iOS</h3>
+        <p>Area51 Training Center, Lima, Perú</p>
+        <time>Mayo 2015</time>
+      </li>
+      <li>
+        <h3>Test of English as a Foreign Language (TOEFL)</h3>
+        <p>Score: 96</p>
+        <time>Septiembre 2015</time>
+      </li>
+      <li>
+        <h3>Graduate Record Examination (GRE)</h3>
+        <p>Score:<br>Quant: 157 / 68%<br>Verbal: 149 / 41%<br>AWA: 3.5 / 38%</p>
+        <time>Octubre 2015</time>
+      </li>
+      <li>
+        <h3>Workshop <b>"Análisis Computacional de Genomas Microbianos"</b></h3>
+        <p>Instituto Nacional de Salud, Lima, Perú</p>
+        <time>Noviembre 2015</time>
+      </li>
+      <li>
+        <h3>IX Congreso Internacional del Instituto Nacional de Salud. <b>"Investigar para innovar en salud: El futuro está aquí"</b></h3>
+        <p>Instituto Nacional de Salud, Lima, Perú</p>
+        <time>Noviembre 2015</time>
+      </li>
+      <li>
+        <h3>Especialización en Ciencia de Datos Genómicos, John Hopkins University via Coursera</h3>
+        <p>Introduction to Genomic Technologies <br>Genomic Data Science with Galaxy <br>Python for Genomic Data Science <br>Command Line Tools for Genomic Data Science <br>Algorithms for DNA Sequencing</p>
+        <time>Junio 2015 - Actual</time>
+      </li>
+      <li>
+        <h3>Especialización en Ciencia de Datos, John Hopkins University via Coursera</h3>
+        <p>The Data Scientist's Toolbox <br>R Programming</p>
+        <time>Noviembre 2015</time>
+      </li>
+      <li>
+        <h3>Faster HTML & CSS Workflow with Emmet + Bootstrap</h3>
+        <p>Udemy</p>
+        <time>Octubre 2015</time>
+      </li>
+      <li>
+        <h3>How to Make an App with No Programming Experience</h3>
+        <p>Udemy</p>
+        <time>Octubre 2015</time>
+      </li>
+      <li>
+        <h3>Become a Senior User Experience (UX) Design</h3>
+        <p>Udemy</p>
+        <time>Diciembre 2015</time>
       </li>
     </ul>
     
+    <h2>2014</h2>
+    <ul>
+      <li>
+        <h3>Cisco Certified Network Academy</h3>
+        <p>ISILTech, Lima, Perú</p>
+        <time>Julio 2014</time>
+      </li>      
+    </ul>
+
     <h2>2012</h2>
     <ul>
       <li>
-        <h3>Graduated College</h3>
-        <p>It only took, like, two years.</p>
-        <time>December 2012</time>
-      </li>
+        <h3>Graduación de la carrera Ingeniería Informática</h3>
+        <p>Universidad Peruana Cayetano Heredia, Lima, Perú</p>
+        <time>Mayo 2012</time>
+      </li>      
+    </ul>
+
+    <h2>2011</h2>
+    <ul>
       <li>
-        <h3>Graduated Community College</h3>
-        <p>Studying Aerospace Engineering.</p>
-        <time>May 2012</time>
-      </li>
+        <h3>Curso de Italiano Completo</h3>
+        <p>Istituto Italiano di Cultura, Lima, Perú</p>
+        <time>Abril 2011</time>
+      </li>      
+    </ul>
+
+    <h2>2008</h2>
+    <ul>
+      <li>
+        <h3>Curso: Reparación y mantenimiento de computadoras</h3>
+        <p>Centro de Educación Ocupacional Cesca, Lima, Perú</p>
+        <time>Octubre 2008</time>
+      </li>      
+    </ul>
+
+    <h2>2007</h2>
+    <ul>
+      <li>
+        <h3>First Certificate in English (FCE)</h3>
+        <p>Cambridge English</p>
+        <time>Octubre 2007</time>
+      </li>      
     </ul>
   </div>
 </div>

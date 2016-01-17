@@ -13,9 +13,11 @@
 	<link rel="stylesheet" href="css/experiencia.css">
 	<link rel="stylesheet" href="css/educacion.css">
 	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/contacto.css">
 	<!-- STYLESHEETS DE BOOTSTRAP -->
-	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
+	
 	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
 	<!-- STYLESHEET DE FONTAWESOME -->
 	<link rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css">
 	<!-- GOOGLE FONTS -->

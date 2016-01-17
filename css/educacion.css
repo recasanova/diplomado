@@ -56,7 +56,7 @@
     transition: all 1s ease;
 }
 .educacion .timeline .timeline-item.active .year, .timeline .timeline-item:hover .year {
-    color: #9DB668;
+    color: #990099;
 }
 .educacion .timeline .timeline-item .marker .dot {
     background-color: white;

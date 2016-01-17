@@ -77,7 +77,7 @@
     			<!-- /.modal-dialog -->
 			</div>
 			<!-- /.modal -->
-	</div>
+
 
 	<div class="modal fade and carousel slide" id="lightbox">
     <div class="modal-dialog">
