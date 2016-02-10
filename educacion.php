@@ -33,7 +33,8 @@
         <div class="year">2015<span class="marker"><span class="dot"></span></span>
         </div>
         <div class="info">User Experience Assistant<br>Bquate, Lima, Perú</div>
-    </div>    
+    </div>  
+    <div style="clear:both"></div>  
   </div>  
 </div>
 <?php include 'footer.php';?>

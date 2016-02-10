@@ -11,7 +11,7 @@
 				    <span class="icon-bar"></span>
 				    <span class="icon-bar"></span>
 				</button>
-      			<a class="navbar-brand logo" href="index.php"><img src="img/ReCasanova.png" alt="ReCasanova Logo"></a>
+      			<a class="navbar-brand logo" href="index.php" style="padding-top:5px;padding-left:25px;"><img src="images/logo1.svg" alt="ReCasanova Logo" width="60"></a>
     		</div>
 
 			<!-- Collect the nav links, forms, and other content for toggling -->

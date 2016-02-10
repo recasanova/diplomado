@@ -5,11 +5,13 @@
 
 .experiencia .container {
   padding: 1em;
+
 }
 
 .experiencia .timeline {
   position: relative;
   overflow: auto;
+  padding-bottom: 100px;
 }
 .experiencia .timeline:before {
   content: '';

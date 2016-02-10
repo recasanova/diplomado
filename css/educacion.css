@@ -1,10 +1,11 @@
-/* TOMADO DE http://jsfiddle.net/yinnette/XdQ5Y/ */
+/* ADAPTADO DE http://jsfiddle.net/yinnette/XdQ5Y/ */
 .educacion div {
     font-family: Helvetica, Arial, sans-serif;
     box-sizing: border-box;
 }
 .educacion .timeline {
     width: 400px;
+    padding-bottom: 100px;
 }
 .educacion .timeline .timeline-item {
     width: 100%;
